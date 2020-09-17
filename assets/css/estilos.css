@@ -7,3 +7,15 @@ body*{
 .btn-200px{
 width:  200px;
 }
+#margem{
+    margin-bottom: 50px;
+    margin:10px;
+}
+.planta{
+    align-items: baseline;
+height: 100px;
+width: 100px;
+}
+ #margem{
+margin-top: 20px;
+ }
