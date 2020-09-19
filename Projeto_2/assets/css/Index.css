@@ -1,0 +1,20 @@
+.top{
+    color:rgb(153, 152, 152);
+}
+a{
+    color: rgb(153, 152, 152);
+    margin-left: 20px;
+
+}
+
+a:hover{
+    color: rgb(230, 191, 18);
+    text-decoration: none;
+}
+
+.redMore{
+    color: rgb(230, 191, 18);
+}
+.redMore:hover{
+    text-decoration: none;
+}
