@@ -1,0 +1,18 @@
+.fundo-body {
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
+
+.footer {
+    background-color: rgba(10, 51, 10, 0.644);
+    color: ghostwhite;
+}
+.teste{
+    color: black;
+
+}
+
+.teste:hover{
+    color: rgb(0, 104, 191);
+    text-decoration: none;
+}
