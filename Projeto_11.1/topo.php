@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="container-fluid>
+    <div class="container-fluid">
         <div class="row">
             <div class="col text-right fundo-body p-2">
                 <img src="assets/img/sony.png" style="height:15px;" class="img-fluid">
@@ -22,31 +22,19 @@
                 <a href="http://"><img src="assets/img/playstation.png" style="width: 50px;"></a>
             </div>
             <div class="col col-md-1 col-lg-1 col-lg-1">
-                <a href="#" class="teste">Jogos</a>
+                <a href="inicio.php" class="teste">Inicio</a>
             </div>
             <div class="col col-lg-1 col-lxg-">
-                <a href="#" class="teste">Hardware</a>
+                <a href="empresa.php" class="teste">Empresa</a>
             </div>
             <div class="col col-lg-1 col-lg-1">
-                <a href="#" class="teste">Serviços</a>
+                <a href="servicos.php" class="teste">Serviços</a>
             </div>
             <div class="col col-lg-1 col-lg-1">
-                <a href="#" class="teste">Notícias</a>
-            </div>
-            <div class="col col-lg-1 col-lg-1">
-                <a href="#" class="teste">Loja</a>
-            </div>
-            <div class="col col-md-1 col-lg-1 col-lg-1">
-                <a href="#" class="teste">Ajuda</a>
+                <a href="contatos.php" class="teste">Contatos</a>
             </div>
         </div>
     </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col">
-                <div class="text-center">
-                    <img src="assets/img/playstation5.png" class="img-fluid mx-auto">
-                </div>
-            </div>
-        </div>
-    </div>
+    
+ 
+ 

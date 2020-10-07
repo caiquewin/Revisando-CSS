@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 text-center footer p-3">
+        <div class="col-12 text-center footer p-3 fixed-bottom">
             exemplo &copy; <?php echo date('Y') ?>
         </div>
     </div>

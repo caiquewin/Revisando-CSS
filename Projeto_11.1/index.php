@@ -1,5 +1,1 @@
-    <?php
-    include('header.php');
-
-    include('footer.php');
-    ?>
+    <?php include('inicio.php');?>
